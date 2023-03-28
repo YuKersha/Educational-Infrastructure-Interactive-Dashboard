@@ -11,4 +11,5 @@ indicators on a single page together with different types of visualization, incl
 
 The files for the dashboard are available in pbix format in both Russian and English languages.
 Moreover, the Russian-language dashboard can be opened in a web browser without the need to install PowerBI software, using a [link](https://app.powerbi.com/view?r=eyJrIjoiNTgxNTA2MjUtYjFmMC00YzBjLTkyMWMtODk1N2U4NjZjMDFlIiwidCI6ImZmN2QwMmE4LTE0MWYtNGMzOC1iODExLThiZWM0ZGIyYjBmMiIsImMiOjl9&pageName=ReportSectionda0682a18f1e27fdab3f).
-![image](https://user-images.githubusercontent.com/126818545/228246875-b1a24d8d-2495-4667-8988-65a064756ed5.png)
+
+
